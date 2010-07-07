@@ -1,0 +1,9 @@
+.DS_Store
+log/*
+tmp/**/*
+db/*
+doc/*
+doc/api
+doc/app
+doc/api/*
+doc/app/*
